@@ -1,0 +1,8 @@
+Origin: themes4cydia repo
+Label: themes4cydia repo
+Suite: beta
+Version: 1.0
+Codename: if0xrepo
+Architectures: iphoneos-arm
+Components: main
+Description: themes4cydia Cydia Repository
