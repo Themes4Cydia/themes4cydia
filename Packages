@@ -1,0 +1,31 @@
+Package: applebetas.ios.theme.lockglyphx.oldsound
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.theme.lockglyphx.oldsound/
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 10.0), xyz.evilgoldfish.lockglyphx
+Filename: deb/applebetas.ios.theme.lockglyphx.oldsound_1.0.1.deb
+Size: 88126
+MD5sum: 33a2b456181b5b5a964d0678bb653095
+SHA1: 53c2f7e5917262a21d3111490c8abd590d721a45
+SHA256: 7d53385e72a53a965f5206118862ff9f1e75fc529e3b6c91b9365638476103cd
+Section: Themes (LockGlyphX)
+Description: LockGlyphX now uses the new Apple Pay sound (introduced in iOS 8.3). This package adds the old sound as a theme option.
+Author: AppleBetas
+Name: Old Apple Pay Sound (for LockGlyphX)
+
+Package: com.samsung.beta_0.8
+Depiction: https://themes4cydia.github.io/themes4cydia/depiction/com.samsung.beta_0.8/
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Themes4Cydia
+Depends: mobilesubstrate, firmware (>= 10.3), 
+Filename: deb/com.samsung.beta_0.8.deb
+Size: 1874
+MD5sum: F1FE8972BB77499A164AC2FA8A133D7A
+SHA1: 542720EFBCB6676BC3064B9B2EE5A5752A176418
+SHA256: BE47A14B01CFCB3D85EF64CCD8429F7871CDC6C5C7D5E77CAA7CB8247093B7FF
+Section: Themes 
+Description: Themes Samsung Beta 0.8
+Author: Themes4Cydia
+Name: Themes4Cydia
