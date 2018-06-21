@@ -19,13 +19,29 @@ Depiction: https://themes4cydia.github.io/themes4cydia/depiction/com.samsung.bet
 Version: 0.0.8
 Architecture: iphoneos-arm
 Maintainer: Themes4Cydia
-Depends: mobilesubstrate, firmware (>= 10.0), xyz.evilgoldfish.lockglyphx
+Depends: mobilesubstrate, firmware (>= 10.3), 
 Filename: deb/com.samsung.beta.deb
-Size: 1874
+Size: 1874944 
 MD5sum: F1FE8972BB77499A164AC2FA8A133D7A
 SHA1: 542720EFBCB6676BC3064B9B2EE5A5752A176418
 SHA256: BE47A14B01CFCB3D85EF64CCD8429F7871CDC6C5C7D5E77CAA7CB8247093B7FF
 Section: Themes 
 Description: Themes Samsung Beta 0.8
 Author: Themes4Cydia
-Name: Themes4Cydia
+Name: Samsung Beta 0.8
+
+Package: com.julioverne.cypush2_1.0_iphoneos-arm
+Depiction: https://themes4cydia.github.io/themes4cydia/depiction/com.julioverne.cypush2_1.0_iphoneos-arm/
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Themes4Cydia
+Depends: mobilesubstrate, firmware (>= 10.3), 
+Filename: deb/com.julioverne.cypush2_1.0_iphoneos-arm.deb
+Size: 114390  
+MD5sum: 5FAA5C0CF61A78430C754055A7D9D864
+SHA1: AF48E6056F176F190D06BC43C512F9A96A2230B0
+SHA256: 3D5F35456553890397DAA57E5A119E444D6B60964DB61941593740296EE5DCE7
+Section: Tweaks 
+Description: Cypush 2
+Author: Themes4Cydia
+Name: Cydpush 2
