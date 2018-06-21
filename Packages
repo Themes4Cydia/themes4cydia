@@ -1,0 +1,26 @@
+Package: ios7cydia_0.0.6
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.3)
+Filename: ./ios7cydia_0.0.6.deb
+Size: 2640
+MD5sum: BA42F13710B940612D75ABD099686432
+Section: Utilities
+Description: DON’T install until I ask you for.                                              Removed firmware dependancy but still only tested on iOS 9
+Author: @if0xxx <if0x2080@gmail.com>
+Name: cydia utilities
+
+Package: com.samsung.beta_0.8
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: @if0xxx <if0x2080@gmail.com>
+Depends: firmware (>=10.3)
+Filename: ./com.samsung.beta_0.8.deb
+Size: 3578
+MD5sum: F1FE8972BB77499A164AC2FA8A133D7A
+Section: Tweaks
+Description: Backup installed tweaks as .debs and make a .zip Backup folder in /. To start type cybkp in MTerminal. Thanks to /u/elsatour for the idea and help. For support follow me on twitter (@if0xxx)
+Author: @if0xxx <if0x2080@gmail.com>
+Name: samsung iOS 10
+
