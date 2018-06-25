@@ -4,7 +4,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Depends: mobilesubstrate, firmware (>= 10.0), xyz.evilgoldfish.lockglyphx
-Filename: deb/applebetas.ios.theme.lockglyphx.oldsound_1.0.1.deb
+Filename: ./deb/applebetas.ios.theme.lockglyphx.oldsound_1.0.1.deb
 Size: 88126
 MD5sum: 33a2b456181b5b5a964d0678bb653095
 SHA1: 53c2f7e5917262a21d3111490c8abd590d721a45
