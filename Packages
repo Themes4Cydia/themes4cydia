@@ -20,7 +20,7 @@ Version: 0.0.8
 Architecture: iphoneos-arm
 Maintainer: Themes4Cydia
 Depends: mobilesubstrate, firmware (>= 10.3), 
-Filename: deb/com.samsung.beta.deb
+Filename: https://archive.org/download/com.samsung.beta/com.samsung.beta.deb
 Size: 1874944 
 MD5sum: f1fe8972bb77499a164ac2fa8a133d7a
 SHA1: 542720efbcb6676bc3064b9b2ee5a5752a176418
