@@ -18,6 +18,7 @@ Package: com.samsung.beta
 Name: samsung beta
 Section: Themes
 Version: 0.8
+Filename: ./deb/com.samsung.beta.deb
 Author: Themes4Cydia
 Maintainer: Themes4Cydia
 Description: samsung beta
