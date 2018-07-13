@@ -19,7 +19,7 @@ Depiction: https://themes4cydia.github.io/themes4cydia/depiction/com.samsung.bet
 Version: 0.0.8
 Architecture: iphoneos-arm
 Maintainer: Themes4Cydia
-Depends: mobilesubstrate, firmware (>= 9.0), 
+Depends:  firmware (>= 9.0) 
 Filename: ./deb/com.samsung.beta.deb
 Size: 1874944 
 MD5sum: 715A83834F46D4C6B11B217C1A6CE6D3
