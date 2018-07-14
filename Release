@@ -1,19 +1,23 @@
 Origin: Themes4Cydia' Repo
-
 Label: Themes4Cydia' Repo
-
 Suite: stable
-
 Version: 1.0
-
 Codename: ios
-
 Architectures: iphoneos-arm
-
 Components: main
 
 Description: A collection of useful tweaks and tools
 
 MD5Sum:
-16BDC1410C28F83FA990B1279BFF1B35 124 Packages
-9E5D51FEA0EE0D6DAC68A6AE4E585916 941 Packages.bz2
+ 138f660d874ff48f7e4f726c5a78a78c 2304  Packages
+ 7c8280111de1b3be6a5871c05d9f8cbf 931 Packages.gz
+ fd6508fd4d92a4da5284f531f20df55d 1076  Packages.bz2
+SHA1:
+ f2cfecfd5fd40c4ed471a4de9785e28a9dd0aba5 2304 Packages
+ a99229ad7354aa4ad4652e507e58cf4f2016bc51 931 Packages.gz
+ 369c44d8c6a1b543c7cc02026bf5c253961c97ec 1076 Packages.bz2
+SHA256:
+ 4540cfe62b3e028b16ebb9abb0c47b221a032414f0a9248a8a3f2ab26378aa3e 2304 Packages
+ deb66f1c78001c915d8ba5529a6335e8c10237051152dc8abf4151eae54440b5 931 Packages.gz
+ c2f2e45baee1c6de293855e21d9c32ead09db15ee6ff184f17371942319a4ee0 1076 Packages.bz2
+
