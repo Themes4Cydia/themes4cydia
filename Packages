@@ -1,0 +1,65 @@
+Package: applebetas.ios.theme.lockglyphx.oldsound
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.theme.lockglyphx.oldsound/
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 10.0), xyz.evilgoldfish.lockglyphx
+Filename: ./deb/applebetas.ios.theme.lockglyphx.oldsound_1.0.1.deb
+Size: 88126
+MD5sum: 33a2b456181b5b5a964d0678bb653095
+SHA1: 53c2f7e5917262a21d3111490c8abd590d721a45
+SHA256: 7d53385e72a53a965f5206118862ff9f1e75fc529e3b6c91b9365638476103cd
+Section: Themes (LockGlyphX)
+Description: LockGlyphX now uses the new Apple Pay sound (introduced in iOS 8.3). This package adds the old sound as a theme option.
+Author: AppleBetas
+Name: Old Apple Pay Sound (for LockGlyphX)
+
+Package: com.samsung.beta
+Name: samsung beta
+Section: Themes
+Version: 0.8
+Filename: ./deb/com.samsung.beta.deb
+Author: Themes4Cydia
+Maintainer: Themes4Cydia
+Description: samsung beta
+Architecture: iphoneos-arm
+Depiction: https://themes4cydia.github.io/themes4cydia/depiction/com.samsung.beta/
+Depends: firmware (>= 9.0)
+MD5sum: 5a9fc2fb9848040e48813bcaa4b14aa4
+SHA1: 442fd3296d346289698c2c9c4e452c96dec38659
+SHA256: 2a1a7f41a7ebee2e2fca78bcad16f1290ec4e9fffb94d2c37c09e9d3606b6e80
+
+Package: com.themes4cydia.amury
+Name: Amury
+Version: 1.8
+Filename: ./deb/com.themes4cydia.amury.deb
+Architecture: iphoneos-arm
+Author: Alex Sanchez
+Section: Themes
+Depends: firmware (>= 9.0)
+MD5sum: 7f2a43448875ab055fdaebe62f8e1f64
+SHA1: b732e5a0f813aebca1d3beab4b24b087b4db8fef
+SHA256: 009d21f615644e3802b60a365162dbf9e52f9c827e539b6687ef7afd09a5ed60
+
+Filename: ./deb/com.themes4cydia.amury.deb
+Architecture: iphoneos-arm
+Author: Alex Sanchez
+Section: Themes
+Depends: firmware (>= 9.0)
+MD5sum: 7f2a43448875ab055fdaebe62f8e1f64
+SHA1: b732e5a0f813aebca1d3beab4b24b087b4db8fef
+SHA256: 009d21f615644e3802b60a365162dbf9e52f9c827e539b6687ef7afd09a5ed60
+
+Package: com.themes4cydia.ThemesMXE
+Name: Themes MXE
+Section: Themes
+Depends: firmware (>= 9.0)
+Version: 1.0
+Filename: ./deb/com.themes4cydia.ThemesMXE.deb
+Author: Themes4Cydia
+Maintainer: Themes4Cydia
+Description: Anemone Support iOS 11.3.1
+Architecture: iphoneos-arm
+MD5sum: c2be1f33399a23436c70d1793b02a300
+SHA1: 455198842ffeb8a0aa668520e84f6062a85af56b
+SHA256: ecbf1324ff7d3b8f64260d0f83575515c8c355669ca5e83057344b7924f507c2
