@@ -1,2 +1,1 @@
-# Thank you for your choice repo 
-
+# Themes4Cydia :)
