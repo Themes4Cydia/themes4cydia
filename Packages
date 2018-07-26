@@ -77,3 +77,17 @@ Architecture: iphoneos-arm
 MD5sum: 257d19c063b0a5d74e8e6b6dd768c2c3
 SHA1: 9129782b45af1e20e19a446bc537b1903eba6a2a
 SHA256: e5f5e5834d858cf10f4b8bea1b826b5cb5562b4c1e20fa4b895262868018f9a5
+
+Package: com.bytafont.bytafont3
+Name: Fonts
+Section: Themes
+Depends: firmware (>= 9.0)
+Version: 3.1.5
+Filename: ./deb/com.bytafont.bytafont3.deb
+Author: Themes4Cydia
+Maintainer: Themes4Cydia
+Description: Support iOS 11.3.1
+Architecture: iphoneos-arm
+MD5sum: efd4d211b4eb098716f4132669bc544f
+SHA1: 3348f3560029ef6971df5e1e8c29230d99fbccf7
+SHA256: cff2e6ac96c2e647ab27759355a2d5ef07a8b2afd5f4c3008f908f974b2a4756
