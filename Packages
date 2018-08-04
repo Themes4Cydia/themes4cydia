@@ -1,5 +1,5 @@
 Package: applebetas.ios.theme.lockglyphx.oldsound
-Depiction: https://repo.applebetas.co/depiction/applebetas.ios.theme.lockglyphx.oldsound/
+Depiction: https://repo.applebetas.co/depiction/applebetas.ios.theme.lockglyphx.oldsound/index.html
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
@@ -23,7 +23,7 @@ Author: Themes4Cydia
 Maintainer: Themes4Cydia
 Description: samsung beta
 Architecture: iphoneos-arm
-Depiction: https://themes4cydia.github.io/themes4cydia/depiction/com.samsung.beta/
+Depiction: https://themes4cydia.github.io/themes4cydia/depiction/com.samsung.beta/index.html
 Depends: firmware (>= 9.0)
 MD5sum: 5a9fc2fb9848040e48813bcaa4b14aa4
 SHA1: 442fd3296d346289698c2c9c4e452c96dec38659
